@@ -11,6 +11,7 @@ header {
     background-color: rgb(42, 42, 250);
     font-family: 'Bebas Neue', sans-serif;
     font-family: 'Heebo', sans-serif;
+    
 }
 
 li {
@@ -50,8 +51,8 @@ a {
 
 .subtitulo {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    padding: 2rem;
+    align-items: ;
     font-family: 'Bebas Neue', sans-serif;
     font-family: 'Heebo', sans-serif;
     color: rgb(13, 70, 119);
@@ -73,10 +74,8 @@ a {
 
 .textoindex {
     display: flex;
-    padding: 50px;
-    padding-left: 10rem;
-    padding-right: 10rem;
-    justify-content: space-between;
+    padding: 150px;
+    align-items:;
     font-family: 'Bebas Neue', sans-serif;
     font-family: 'Heebo', sans-serif;
     color: rgb(13, 70, 119);
@@ -108,10 +107,8 @@ a {
 
 .textosobrenosotros {
     display: flex;
-    padding: 40px;
-    padding-left: 10rem;
-    padding-right: 10rem;
-    justify-content: space-between;
+    padding: 100px;
+    align-items:;
     font-family: 'Bebas Neue', sans-serif;
     font-family: 'Heebo', sans-serif;
     color: rgb(13, 70, 119);
@@ -214,4 +211,6 @@ a {
     background-color: rgb(108, 110, 250);
     font-family: 'Bebas Neue', sans-serif;
     font-family: 'Heebo', sans-serif;
+
+    
 }
